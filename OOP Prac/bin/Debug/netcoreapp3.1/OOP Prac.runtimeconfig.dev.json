@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\THE PAVILION WORLD\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\THE PAVILION WORLD\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

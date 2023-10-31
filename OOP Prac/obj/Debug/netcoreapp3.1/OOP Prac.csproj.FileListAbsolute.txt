@@ -1,0 +1,14 @@
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\bin\Debug\netcoreapp3.1\OOP Prac.exe
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\bin\Debug\netcoreapp3.1\OOP Prac.deps.json
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\bin\Debug\netcoreapp3.1\OOP Prac.runtimeconfig.json
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\bin\Debug\netcoreapp3.1\OOP Prac.runtimeconfig.dev.json
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\bin\Debug\netcoreapp3.1\OOP Prac.dll
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\bin\Debug\netcoreapp3.1\OOP Prac.pdb
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\obj\Debug\netcoreapp3.1\OOP Prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\obj\Debug\netcoreapp3.1\OOP Prac.AssemblyInfoInputs.cache
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\obj\Debug\netcoreapp3.1\OOP Prac.AssemblyInfo.cs
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\obj\Debug\netcoreapp3.1\OOP Prac.csproj.CoreCompileInputs.cache
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\obj\Debug\netcoreapp3.1\OOP Prac.dll
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\obj\Debug\netcoreapp3.1\OOP Prac.pdb
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\obj\Debug\netcoreapp3.1\OOP Prac.genruntimeconfig.cache
+C:\Users\THE PAVILION WORLD\source\repos\OOP Prac\OOP Prac\obj\Debug\netcoreapp3.1\OOP Prac.csproj.AssemblyReference.cache
